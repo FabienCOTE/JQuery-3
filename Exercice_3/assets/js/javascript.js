@@ -1,5 +1,5 @@
 //Création des variables
-var correct = 89;
+var correct = Math.floor(Math.random()*100);
 var regexNumber = /^[0-9]+$/;
 var count = 0;
 
